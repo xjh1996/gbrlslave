@@ -1,0 +1,17 @@
+..\obj\stringdeal.o: ..\HARDWARE\stringdeal.c
+..\obj\stringdeal.o: ..\HARDWARE\stringdeal.h
+..\obj\stringdeal.o: ..\HARDWARE\include.h
+..\obj\stringdeal.o: ..\SYSTEM\sys\sys.h
+..\obj\stringdeal.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm3.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+..\obj\stringdeal.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\stringdeal.o: ..\SYSTEM\usart\usart.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\stringdeal.o: ..\SYSTEM\delay\delay.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\stringdeal.o: E:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+..\obj\stringdeal.o: ..\HARDWARE\stepper.h
